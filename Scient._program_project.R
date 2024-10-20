@@ -1,6 +1,6 @@
 #=====================================================================================================#
 # MSB1015_Scient_program_project.R                                                                    #
-#	Gut microbiome analysis in non-celiac wheat-sensitive patients and effects of different bread types	#															                                       		  #
+#	Gut microbiome analysis in non-celiac wheat-sensitive patients and effects of different bread types	#															                                       		 
 # Date: Oct 20, 2024											                                                            #
 # Author: Mostafa Hassanein, Maastricht University                                                    #
 #=====================================================================================================#
