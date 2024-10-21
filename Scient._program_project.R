@@ -80,10 +80,10 @@ for(package in package_list){
 "microViz" %in% rownames(installed.packages())
 
 # if TRUE --> Comment the following four lines (no need to re-install)
-# install.packages(
-#   "microViz",
-#   repos = c(davidbarnett = "https://david-barnett.r-universe.dev", getOption("repos"))
-# )
+ install.packages(
+   "microViz",
+   repos = c(davidbarnett = "https://david-barnett.r-universe.dev", getOption("repos"))
+ )
 
 # Loading the package
 library(microViz)
